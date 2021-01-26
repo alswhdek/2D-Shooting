@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Invincibility
+  - SoundController
+  - EnemyBoltPool
+  - Box
+  - Item
+  - Gold
+  - RayCollider
+  - Slot
+  - Store
+  - Magnet
+  - EnemyBolt
+  - FxTemporaire
+  - Monster
   layers:
   - Default
   - TransparentFX
@@ -13,10 +27,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Bolt
+  - Collider
+  - Player
+  - Slot
   - 
   - 
   - 
